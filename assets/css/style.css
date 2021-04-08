@@ -1169,3 +1169,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+@media only screen and (max-width: 400px) {
+  #hero {
+    background-size: auto;
+  }
+}
